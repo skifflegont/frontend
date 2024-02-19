@@ -1,2 +1,1 @@
-# frontend
-Angular
+# frontend Angular
